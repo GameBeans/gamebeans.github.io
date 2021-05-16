@@ -8,5 +8,3 @@
   </h3>
   <p>{{ episode.date | date: site.date_format }}</p>
 {% endfor %}
-
-
