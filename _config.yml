@@ -1,3 +1,23 @@
 theme: jekyll-theme-cayman
 title: GameBeans
 description: A podcast with a couple of goofs
+date_format: "%b %-d, %Y"
+
+# Podcast
+podcast:
+  title: Game Beans
+  description: Welcome to Game Beans! 🎮 Where two human beans talk about games and stuff 🎮 Made with ❤ by @meowstations and @hola_soy_milk
+  url: /podcast.xml
+  author: The Game Beans
+  email: gamebeanspod@gmail.com
+  logo: /img/logo.png
+  language: en
+  category: Leisure
+  subcategory: Video Games, Games, Hobbies
+  type: episodic
+  explicit: false
+  complete: 'no'
+  block: 'no'
+collections:
+  podcast_episodes:
+    output: true
