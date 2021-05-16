@@ -7,10 +7,10 @@ date_format: "%b %-d, %Y"
 podcast:
   title: Game Beans
   description: Welcome to Game Beans! 🎮 Where two human beans talk about games and stuff 🎮 Made with ❤ by @meowstations and @hola_soy_milk
-  url: /img/podcast.xml
+  url: /podcast.xml
   author: The Game Beans
   email: gamebeanspod@gmail.com
-  logo: /img/logo.png
+  logo: /assets/img/logo.png
   language: en
   category: Leisure
   subcategory: Video Games, Games, Hobbies

@@ -3,7 +3,7 @@ layout: episode
 title: Episode... ¿Ehh?
 author: Women Techmakers Vienna
 isStaticPost: true
-image: ../img/logo.JPG
+image: ../assets/img/logo.JPG
 episode: 0
 episodeType: full
 explicit: false
