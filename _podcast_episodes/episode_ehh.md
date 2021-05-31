@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: Episode... ¿Ehh?
-author: Women Techmakers Vienna
+author: Game Beans
 isStaticPost: true
 image: ../assets/img/logo.JPG
 episode: 0
