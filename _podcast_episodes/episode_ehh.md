@@ -3,7 +3,7 @@ layout: episode
 title: Episode... ¿Ehh?
 author: Game Beans
 isStaticPost: true
-image: ../assets/img/logo.JPG
+image: ../assets/img/logo.jpg
 episode: 0
 episodeType: full
 explicit: false

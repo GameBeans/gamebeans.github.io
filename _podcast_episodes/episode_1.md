@@ -3,7 +3,7 @@ layout: episode
 title: "1: ImpostOr Syndrome"
 author: Game Beans
 isStaticPost: true
-image: ../assets/img/logo.JPG
+image: ../assets/img/logo.jpg
 episode: 1
 episodeType: full
 explicit: false
