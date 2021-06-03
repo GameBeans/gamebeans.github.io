@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: Episode 1: ImpostOr Syndrome
+title: "Episode 1: ImpostOr Syndrome"
 author: Game Beans
 isStaticPost: true
 image: ../assets/img/logo.JPG
